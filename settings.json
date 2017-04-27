@@ -1,4 +1,5 @@
 // 설정을 이 파일에 넣어서 기본 설정을 덮어씁니다.
+// C:\Users\Administrator\AppData\Roaming\Code\User
 {
     "workbench.welcome.enabled": true,
     "files.trimTrailingWhitespace": true,
