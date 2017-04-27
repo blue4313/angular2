@@ -35,7 +35,7 @@ https://nodejs.org/ko/
 1 . 기본설치
 
 	1) nvm 등 버전관리 툴 없이 그냥 노드만 설치할 경우
-		- https://nodejs.org/ko/ 최신버전 다운로드 해서 설치 (LTS 버전)
+		- https://nodejs.org/ko/ 최신버전 다운로드 해서 설치 (LTS 버전 )
 		- nodejs install
 
 	2)  nvm 등 버전관리 툴을 이용해서 설치할경우 (2개이상의 노드버전 설치가 가능, 버전별로 프로젝트 관리가 가능)
