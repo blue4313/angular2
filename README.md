@@ -5,7 +5,7 @@ Angular2 Study
 https://github.com/wikibook/ng2-book
 
 # nvm github
-https://github.com/coreybutler/nvm-windows
+#https://github.com/coreybutler/nvm-windows
 
 # nvm download path
 https://github.com/coreybutler/nvm-windows/releases
