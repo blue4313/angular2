@@ -79,6 +79,8 @@ https://nodejs.org/ko/
 			- cmd 실행 ( angular-cli가 설치되어 있어야 함)
 			> ng new project (프로젝트명) : ng new 명령으로 생성할 수 있음
 
+3. 
+
 	- 다운받는 파일을 압축을 풀거나 작업폴더로 이동한다.
 		- cmd 실행
 		> npm install : node_modules를 내려받는다. (package.json을 기반으로 필요한 모듈을 내려받고 설치함)
