@@ -25,7 +25,7 @@ https://github.com/isaacs/nave
 # nodejs url
 https://nodejs.org/ko/
 
-
-* angular를 개발하려면 nodejs와 npm를 설치해야 한다.
+# Angular2 Setup a local development environment
+* angular2를 개발하려면 nodejs와 npm를 설치해야 한다.
 * nodejs 를 설치하면 자동으로 npm도 설치된다.
 * node 버전관리를 위해 nvm, nodist, nave 등 같은 툴을 이용한다.
