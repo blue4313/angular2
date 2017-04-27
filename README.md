@@ -1,10 +1,7 @@
 # angular2
-angular2 study
+Angular2 Study
 
-# 
-https://github.com/coreybutler/nvm-windows
-
-# 『쉽고 빠르게 배우는 Angular 2 프로그래밍』
+# wikibook ng2 book github
 https://github.com/wikibook/ng2-book
 
 # nvm github
