@@ -34,17 +34,17 @@ https://nodejs.org/ko/
 
 1 . 기본설치
 
-	1) nvm 등 버전관리 툴 없이 그냥 노드만 설치할 경우
+	- nvm 등 버전관리 툴 없이 그냥 노드만 설치할 경우
 		- https://nodejs.org/ko/ 최신버전 다운로드 해서 설치 (LTS 버전 추천)
 		- nodejs install
 
-	2)  nvm 등 버전관리 툴을 이용해서 설치할경우 (2개이상의 노드버전 설치가 가능, 버전별로 프로젝트 관리가 가능)
+	-  nvm 등 버전관리 툴을 이용해서 설치할 경우 (2개이상의 노드버전 설치가 가능, 버전별로 프로젝트 관리가 가능)
 		- 기존에 설치된 nodejs를 삭제 (폴더까지 찾아서 삭제 : C:\Users\Administrator\AppData\Roaming\npm)
 		- nvm install
 		- cmd 실행
 		> nvm install 6.10.2 (노드버전) : nvm 명령으로 노드 설치
 
-	3) angular-cli 설치 (필수아님) (설치하면 편리하고  ng 명령을 사용할 수 있음)
+	- angular-cli 설치 (필수아님) (설치하면 편리하고  ng 명령을 사용할 수 있음)
 		- node 6.10.2 이전 버전에서는 npm install -g angular-cli 로 설치
 		- node 6.10.2 이후 버전에서는 npm install -g @angular/cli 로 설치
 
