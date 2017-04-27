@@ -28,7 +28,7 @@ https://nodejs.org/ko/
 #Angular2 Setup a local development environment
 
 	- angular2를 개발하려면 nodejs와 npm를 설치해야 한다.
-	- nodejs 를 설치하면 자동으로 npm도 설치된다.
+	- nodejs를 설치하면 자동으로 npm도 설치된다.
 	- node 버전관리를 위해 nvm, nodist, nave 등 같은 툴을 이용한다.
 	* 반드시 버전을 확인하고 설치해야 함.. 버전을 다르면 작동이 안될 수도 있음...
 
