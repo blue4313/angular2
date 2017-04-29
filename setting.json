@@ -5,5 +5,6 @@
     "workbench.welcome.enabled": true,
     "files.trimTrailingWhitespace": true,
     "window.reopenFolders": "none",
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "explorer.openEditors.visible": 0
 }
