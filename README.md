@@ -44,7 +44,7 @@ https://nodejs.org/ko/
 		- cmd 실행
 		> nvm install 6.10.2 (노드버전) : nvm 명령으로 노드 설치
 
-	- angular-cli 설치 (필수아님) (설치하면 편리하고  ng 명령을 사용할 수 있음)
+	- angular-cli 설치
 		- node 6.10.2 이전 버전에서는 npm install -g angular-cli 로 설치
 		- node 6.10.2 이후 버전에서는 npm install -g @angular/cli 로 설치
 
