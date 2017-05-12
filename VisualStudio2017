@@ -1,0 +1,32 @@
+Visual Studio 2017  커뮤니티 설치
+
+https://youtu.be/5wTIUs8gnh0
+
+https://www.visualstudio.com/ko/downloads
+
+
+Web Essentials 2017 설치
+
+https://marketplace.visualstudio.com/items?itemName=Madskristensen.WebExtensionPack2017
+
+
+Angular 2 Snippet Pack 설치
+
+https://marketplace.visualstudio.com/items?itemName=Madskristensen.Angular2SnippetPack
+
+
+ASP.NET Core Template Pack
+
+https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ASPNETCoreTemplatePack
+
+
+Nodd.js 최신 버전 설치 : 6.X 버전 이상
+
+
+Angular SPA 프로젝트 설치 및 생성
+
+dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
+dotnet new angular
+dotnet restore
+npm install
+start AngularAspNet.csproj
